@@ -5,7 +5,6 @@
 - **데이터 출처**: UCI Machine Learning Repository
 - **데이터 파일**
   - `winequality-white.csv` (4,898개 샘플)
-  - `winequality-red.csv` (1,598개 샘플)
 
 ---
 
